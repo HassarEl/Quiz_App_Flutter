@@ -1,0 +1,308 @@
+{
+  "questions": [
+    {
+      "categoryId": 9,
+      "question": "Quelle planète est la plus proche du Soleil ?",
+      "answers": ["Mercure", "Vénus", "Mars", "Jupiter"],
+      "correct": "Mercure"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quel océan est le plus grand ?",
+      "answers": ["Pacifique", "Atlantique", "Indien", "Arctique"],
+      "correct": "Pacifique"
+    },
+    {
+      "categoryId": 9,
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "answers": ["7", "5", "6", "8"],
+      "correct": "7"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quelle est la capitale du Maroc ?",
+      "answers": ["Rabat", "Casablanca", "Marrakech", "Tanger"],
+      "correct": "Rabat"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quel gaz les plantes absorbent-elles principalement ?",
+      "answers": ["CO2", "O2", "Azote", "Hélium"],
+      "correct": "CO2"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quel instrument mesure la température ?",
+      "answers": ["Thermomètre", "Baromètre", "Hygromètre", "Altimètre"],
+      "correct": "Thermomètre"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quel est le plus grand mammifère ?",
+      "answers": ["Baleine bleue", "Éléphant", "Girafe", "Requin blanc"],
+      "correct": "Baleine bleue"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quelle langue est principalement parlée au Brésil ?",
+      "answers": ["Portugais", "Espagnol", "Anglais", "Français"],
+      "correct": "Portugais"
+    },
+    {
+      "categoryId": 9,
+      "question": "Le symbole chimique de l'eau est :",
+      "answers": ["H2O", "CO2", "O2", "NaCl"],
+      "correct": "H2O"
+    },
+    {
+      "categoryId": 9,
+      "question": "Quelle est la couleur obtenue en mélangeant bleu et jaune ?",
+      "answers": ["Vert", "Violet", "Orange", "Rose"],
+      "correct": "Vert"
+    },
+
+    {
+      "categoryId": 18,
+      "question": "Quel protocole est utilisé pour résoudre un nom de domaine ?",
+      "answers": ["DNS", "DHCP", "FTP", "SMTP"],
+      "correct": "DNS"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quelle commande Linux affiche l’adresse IP ?",
+      "answers": ["ip a", "ls", "pwd", "mkdir"],
+      "correct": "ip a"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quel port est utilisé par défaut pour HTTP ?",
+      "answers": ["80", "21", "22", "443"],
+      "correct": "80"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quel port est utilisé par défaut pour HTTPS ?",
+      "answers": ["443", "80", "53", "25"],
+      "correct": "443"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quel outil permet de versionner le code source ?",
+      "answers": ["Git", "Docker", "Maven", "Nginx"],
+      "correct": "Git"
+    },
+    {
+      "categoryId": 18,
+      "question": "Dans le modèle OSI, la couche 3 correspond à :",
+      "answers": ["Réseau", "Transport", "Session", "Physique"],
+      "correct": "Réseau"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quel protocole fournit une adresse IP automatiquement ?",
+      "answers": ["DHCP", "DNS", "ICMP", "ARP"],
+      "correct": "DHCP"
+    },
+    {
+      "categoryId": 18,
+      "question": "Le protocole SSH est souvent utilisé pour :",
+      "answers": ["Accès distant sécurisé", "Transfert web", "Partage d'imprimante", "Streaming vidéo"],
+      "correct": "Accès distant sécurisé"
+    },
+    {
+      "categoryId": 18,
+      "question": "Quel système de gestion de base de données est relationnel ?",
+      "answers": ["MySQL", "Redis", "MongoDB", "Elasticsearch"],
+      "correct": "MySQL"
+    },
+    {
+      "categoryId": 18,
+      "question": "En Java, quel mot-clé définit une classe ?",
+      "answers": ["class", "def", "struct", "package"],
+      "correct": "class"
+    },
+
+    {
+      "categoryId": 19,
+      "question": "Combien vaut 7 × 8 ?",
+      "answers": ["56", "54", "64", "48"],
+      "correct": "56"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quel est le résultat de 12 + 15 ?",
+      "answers": ["27", "25", "29", "30"],
+      "correct": "27"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quelle est la valeur de 9² ?",
+      "answers": ["81", "72", "99", "91"],
+      "correct": "81"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quel est le périmètre d’un carré de côté 5 ?",
+      "answers": ["20", "25", "10", "15"],
+      "correct": "20"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quelle fraction est équivalente à 1/2 ?",
+      "answers": ["2/4", "3/4", "2/3", "4/3"],
+      "correct": "2/4"
+    },
+    {
+      "categoryId": 19,
+      "question": "Combien vaut √49 ?",
+      "answers": ["7", "6", "8", "9"],
+      "correct": "7"
+    },
+    {
+      "categoryId": 19,
+      "question": "Si x = 3, combien vaut 2x + 1 ?",
+      "answers": ["7", "6", "8", "5"],
+      "correct": "7"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quelle est la somme des angles d’un triangle ?",
+      "answers": ["180°", "90°", "360°", "270°"],
+      "correct": "180°"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quel est le résultat de 100 ÷ 4 ?",
+      "answers": ["25", "20", "40", "30"],
+      "correct": "25"
+    },
+    {
+      "categoryId": 19,
+      "question": "Quel nombre est un nombre premier ?",
+      "answers": ["13", "15", "21", "27"],
+      "correct": "13"
+    },
+
+    {
+      "categoryId": 23,
+      "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
+      "answers": ["1914", "1918", "1939", "1905"],
+      "correct": "1914"
+    },
+    {
+      "categoryId": 23,
+      "question": "Qui était le premier président des États-Unis ?",
+      "answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+      "correct": "George Washington"
+    },
+    {
+      "categoryId": 23,
+      "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
+      "answers": ["Égyptienne", "Romaine", "Grecque", "Maya"],
+      "correct": "Égyptienne"
+    },
+    {
+      "categoryId": 23,
+      "question": "Quelle ville était la capitale de l’Empire romain ?",
+      "answers": ["Rome", "Athènes", "Carthage", "Alexandrie"],
+      "correct": "Rome"
+    },
+    {
+      "categoryId": 23,
+      "question": "En quelle année a eu lieu l’indépendance du Maroc ?",
+      "answers": ["1956", "1945", "1962", "1975"],
+      "correct": "1956"
+    },
+    {
+      "categoryId": 23,
+      "question": "Qui a découvert l’Amérique en 1492 ?",
+      "answers": ["Christophe Colomb", "Magellan", "Vasco de Gama", "Napoléon"],
+      "correct": "Christophe Colomb"
+    },
+    {
+      "categoryId": 23,
+      "question": "Quelle révolution débute en 1789 ?",
+      "answers": ["Révolution française", "Révolution industrielle", "Révolution russe", "Révolution américaine"],
+      "correct": "Révolution française"
+    },
+    {
+      "categoryId": 23,
+      "question": "Quelle mur est tombé en 1989 ?",
+      "answers": ["Mur de Berlin", "Mur d’Hadrien", "Mur de Chine", "Mur de Varsovie"],
+      "correct": "Mur de Berlin"
+    },
+    {
+      "categoryId": 23,
+      "question": "Qui était le pharaon connu pour sa tombe découverte en 1922 ?",
+      "answers": ["Toutânkhamon", "Ramsès II", "Cléopâtre", "Akhenaton"],
+      "correct": "Toutânkhamon"
+    },
+    {
+      "categoryId": 23,
+      "question": "Quel empire était dirigé par Gengis Khan ?",
+      "answers": ["Empire mongol", "Empire ottoman", "Empire romain", "Empire perse"],
+      "correct": "Empire mongol"
+    },
+
+    {
+      "categoryId": 21,
+      "question": "Quel pays a remporté la Coupe du Monde 2018 ?",
+      "answers": ["France", "Croatie", "Brésil", "Allemagne"],
+      "correct": "France"
+    },
+    {
+      "categoryId": 21,
+      "question": "Combien de joueurs une équipe de football a-t-elle sur le terrain ?",
+      "answers": ["11", "10", "12", "9"],
+      "correct": "11"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel sport utilise une raquette et un volant ?",
+      "answers": ["Badminton", "Tennis", "Squash", "Ping-pong"],
+      "correct": "Badminton"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel pays organise les Jeux Olympiques 2024 ?",
+      "answers": ["France", "Japon", "États-Unis", "Brésil"],
+      "correct": "France"
+    },
+    {
+      "categoryId": 21,
+      "question": "Combien de minutes dure un match de football (sans prolongation) ?",
+      "answers": ["90", "60", "80", "100"],
+      "correct": "90"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel sport est associé à la NBA ?",
+      "answers": ["Basketball", "Baseball", "Rugby", "Tennis"],
+      "correct": "Basketball"
+    },
+    {
+      "categoryId": 21,
+      "question": "Dans quel sport parle-t-on de 'K.O.' ?",
+      "answers": ["Boxe", "Football", "Natation", "Cyclisme"],
+      "correct": "Boxe"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel pays a remporté la Coupe du Monde 2022 ?",
+      "answers": ["Argentine", "France", "Brésil", "Portugal"],
+      "correct": "Argentine"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel sport se joue sur une glace avec un palet ?",
+      "answers": ["Hockey", "Handball", "Cricket", "Volley"],
+      "correct": "Hockey"
+    },
+    {
+      "categoryId": 21,
+      "question": "Quel sport se pratique avec une planche et des vagues ?",
+      "answers": ["Surf", "Golf", "Judo", "Athlétisme"],
+      "correct": "Surf"
+    }
+  ]
+}
